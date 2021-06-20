@@ -1,2 +1,2 @@
 # Projeto-Finances
-Projeto Fiances$ da Rocketseat
+Projeto  feito na aula da Rocketseat
