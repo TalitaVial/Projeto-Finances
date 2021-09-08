@@ -18,4 +18,6 @@ Home bank<br>
 ## Home 
 ![home](https://github.com/TalitaVial/Projeto-Finances/blob/main/print.png)
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) e for details.
 
